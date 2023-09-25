@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testing Midtrans Snap Pay</title>
+</head>
+<body>
+    
+    <label for="token">TOKEN: </label>
+    <input type="text" id="token">
+    <p id="pay-button">Beli</p>
+    
+    <script 
+        type="text/javascript"
+        src="https://app.sandbox.midtrans.com/snap/snap.js"
+        data-client-key="SB-Mid-client-uweS1oz-UmY6U1hK">
+    </script>
+
+    <script>
+        document.getElementById('pay-button').addEventListener('click', function() {snap.pay(document.getElementById('token').value)})
+    </script>
+</body>
+</html>

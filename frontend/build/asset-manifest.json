@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d86c94e.css",
+    "main.js": "/static/js/main.38f9078c.js",
+    "static/js/787.a8863011.chunk.js": "/static/js/787.a8863011.chunk.js",
+    "static/media/Cover.png": "/static/media/Cover.fb8aaa1b0631afa6fb12.png",
+    "static/media/BgRegisterNow.png": "/static/media/BgRegisterNow.9db88be9a2bcdfe2fe4a.png",
+    "static/media/Benefit.png": "/static/media/Benefit.917616490ab7552d2239.png",
+    "static/media/BgSample.png": "/static/media/BgSample.e9465debce77ff2cf462.png",
+    "static/media/Logo.svg": "/static/media/Logo.704ae6773b32cfd4c3f20435713329dc.svg",
+    "static/media/BgAuthSecond.png": "/static/media/BgAuthSecond.3e3029ff7ae60c4b6fd2.png",
+    "static/media/NotFound.svg": "/static/media/NotFound.3f5faf87c60f1aca79939885ac6596d5.svg",
+    "static/media/BgAuthFirst.png": "/static/media/BgAuthFirst.0e7b112249f1c53116fc.png",
+    "static/media/BgAuthThird.png": "/static/media/BgAuthThird.71af5fbf9b9298b60a29.png",
+    "static/media/Map.png": "/static/media/Map.9a195f82fc9081806a00.png",
+    "static/media/default-user.jpg": "/static/media/default-user.efe9f7194595cd6f876f.jpg",
+    "static/media/NoActivity.svg": "/static/media/NoActivity.113b6da04f24e9df9f33f7f9424fbb74.svg",
+    "static/media/Wave.png": "/static/media/Wave.d100c7c35492b844750b.png",
+    "static/media/Student.png": "/static/media/Student.19c8cb9cc98cf08bc7da.png",
+    "static/media/MemberAndTentor.png": "/static/media/MemberAndTentor.8e8514c99e8d620d5415.png",
+    "static/media/GirlWithLaptop.png": "/static/media/GirlWithLaptop.14f909aa28bbc409d341.png",
+    "static/media/Tentor.png": "/static/media/Tentor.1e202722d53e251be5c4.png",
+    "static/media/VectorDot.svg": "/static/media/VectorDot.deb344c937c3858c46a391ee4ed2af8d.svg",
+    "static/media/VectorArrow.svg": "/static/media/VectorArrow.6f026452e497394eb53a60e39f4f2ceb.svg",
+    "index.html": "/index.html",
+    "static/media/VectorQuote.svg": "/static/media/VectorQuote.5b8fc996880a492bd755a4e67db885a7.svg",
+    "static/media/VectorLine.svg": "/static/media/VectorLine.9efcc85f7816796912c54fae228c8f08.svg",
+    "main.3d86c94e.css.map": "/static/css/main.3d86c94e.css.map",
+    "main.38f9078c.js.map": "/static/js/main.38f9078c.js.map",
+    "787.a8863011.chunk.js.map": "/static/js/787.a8863011.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d86c94e.css",
+    "static/js/main.38f9078c.js"
+  ]
+}
